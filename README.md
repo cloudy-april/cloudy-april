@@ -1,5 +1,6 @@
 ## Hi there 👋
-![My GIF](https://tenor.com/view/iron-kirk-iron-man-charlie-kirk-kirk-if-ied-kirk-meme-gif-9647599811720021802)
+![My GIF](https://raw.githubusercontent.com/cloudy-april/cloudy-april/main/iron-kirk-iron-man.gif)
+
 
 <!--
 **cloudy-april/cloudy-april** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
