@@ -1,5 +1,7 @@
 ## Hi there 👋
 ![My GIF](https://media.giphy.com/media/iron-kirk-iron-man.gif)
+![My GIF](assets/iron-kirk-iron-man.gif)
+
 <!--
 **cloudy-april/cloudy-april** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
